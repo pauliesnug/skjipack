@@ -30,6 +30,11 @@ hash = "d73c7811ad35da54efbab975b0367012124a045f09cad6b1e02c5e880449fce5"
 metafile = true
 
 [[files]]
+file = "mods/blahaj.pw.toml"
+hash = "f191bf1a5543be29f1ea40b4e68283bce96272d788e33d2dfc849f9731144192"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
 metafile = true
@@ -87,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "86c821389c1ecfcf2b83975287bf3a549b00b096989324bcc15fe8a0cb06e80e"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "e79724cceb24aad2460a7761ce86843aeecbdaee5196509c0b9987e455023878"
 metafile = true
 
 [[files]]
