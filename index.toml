@@ -30,6 +30,11 @@ hash = "d73c7811ad35da54efbab975b0367012124a045f09cad6b1e02c5e880449fce5"
 metafile = true
 
 [[files]]
+file = "mods/carpet.pw.toml"
+hash = "ce68fe066c471b3a2c503e694c3b88581ad5af3e509f8c5cf672adeb1adf11f2"
+metafile = true
+
+[[files]]
 file = "mods/cc-restitched.pw.toml"
 hash = "68d97d7c43f28d54f75e4acfdcfc05c3c963739d438892d8d84c68ebc9d181bf"
 metafile = true
