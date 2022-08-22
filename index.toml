@@ -5,6 +5,21 @@ file = "config/.gitkeep"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/advancedreborn.pw.toml"
+hash = "47790610933527f75242e1022f48326e828ad1b1986001a801dd1dcc030ec7f9"
+metafile = true
+
+[[files]]
+file = "mods/ae2things.pw.toml"
+hash = "2619e05c47ce319bbdb067666768eee83dc297848e2998f8855f4495ade99cfd"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "2e2e54ee04493089e0b945dde460149473ede218aa090267cd36a74a3a879c8b"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "bf34c6cd09581dbf436b81d6fa3369a903453c973a33dedc2cf701c3dd11082f"
 metafile = true
@@ -60,8 +75,28 @@ hash = "1fc89f8a9bcd5f2595072474dc27c617a64cd7505e7f622db0e2f87b2cbca5c5"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization.pw.toml"
+hash = "f75ffe6f368233a0a15fcc56ade9e4ae9191334efead6340e4b2f2fd3fa586ec"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "86c821389c1ecfcf2b83975287bf3a549b00b096989324bcc15fe8a0cb06e80e"
+metafile = true
+
+[[files]]
+file = "mods/quarry-reborn.pw.toml"
+hash = "43ca32cb1e3ba894d65af2a98ce3807d0839f83868015197e44a0017d2e66177"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "d5e056554e315a461aa7bb4c21805d22d22ae5cb7ce0ab3c18e0514a642582db"
 metafile = true
 
 [[files]]
@@ -82,4 +117,9 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "73259e05c16e2461736d7d7ddc8775ca97c9efd70e6a912dc2280e2bf2c67396"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
 metafile = true
