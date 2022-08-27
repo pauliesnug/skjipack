@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/.gitkeep"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "mods/advancedreborn.pw.toml"
 hash = "47790610933527f75242e1022f48326e828ad1b1986001a801dd1dcc030ec7f9"
 metafile = true
@@ -60,13 +56,8 @@ hash = "3a6f86a9b95270b1ffd7ea7442e3a17655ebe08ad63fa05b19b629fcab004098"
 metafile = true
 
 [[files]]
-file = "mods/fabric-api.pw.toml"
-hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
-metafile = true
-
-[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4fa8a859f79c3b1d988207da7e115c562dc2e365e044f134a9d558da7fe72c8d"
+hash = "4559f01f8da539982476e058019d8e9b7906f3d9b84f06652b9687cee648515f"
 metafile = true
 
 [[files]]

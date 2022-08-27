@@ -1,13 +1,13 @@
 name = "SkjiPack"
 author = "skji and fwends"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6cb6314506c72013b5584275d2d183b8388138be016b7940b13f81b0f1e9d684"
+hash = "860ba51a3ff9b9612a9ab60e4d8f9621749b3e0ce1981b1d090d47c0a72a5490"
 
 [versions]
 minecraft = "1.18.2"
-quilt = "0.17.3"
+quilt = "0.17.4"
