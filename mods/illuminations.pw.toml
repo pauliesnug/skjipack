@@ -1,0 +1,9 @@
+name = "Illuminations"
+filename = "illuminations-1.10.4.jar"
+side = "both"
+
+[download]
+url = "https://github.com/pauliesnug/downloads/raw/main/illuminations-1.10.4.jar"
+
+hash-format = "sha256"
+hash = "4e48338ae8b2b1c31e38e80b8e641225b2546df1fec40876428348b257507333"
