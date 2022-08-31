@@ -56,8 +56,18 @@ hash = "3a6f86a9b95270b1ffd7ea7442e3a17655ebe08ad63fa05b19b629fcab004098"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "d95379da217fbae889dc9b9e66a55d484ee63a28da2ffc9d79bd020cc4e2cc8d"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "4559f01f8da539982476e058019d8e9b7906f3d9b84f06652b9687cee648515f"
+metafile = true
+
+[[files]]
+file = "mods/illuminations.pw.toml"
+hash = "731c239ff8fb415c00c76856453aea3ad7a3082d78837daedbbf98c37279ce67"
 metafile = true
 
 [[files]]
