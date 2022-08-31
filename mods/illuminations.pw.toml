@@ -1,13 +1,9 @@
-name = "Illuminations 🔥"
+name = "Illuminations"
 filename = "illuminations-1.10.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "076c8fb7929dad53b5c1a727ec34a80d980c6d1f"
-mode = "metadata:curseforge"
+url = "https://github.com/pauliesnug/downloads/raw/main/illuminations-1.10.4.jar"
 
-[update]
-[update.curseforge]
-file-id = 3791214
-project-id = 292908
+hash-format = "sha256"
+hash = "4e48338ae8b2b1c31e38e80b8e641225b2546df1fec40876428348b257507333"
