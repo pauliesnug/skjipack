@@ -2,32 +2,27 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/advancedreborn.pw.toml"
-hash = "47790610933527f75242e1022f48326e828ad1b1986001a801dd1dcc030ec7f9"
+hash = "478c1a4df2b7ae001eb78a6b4dd0f72e0b7378bcd735a15bba1ff5ca7c191789"
 metafile = true
 
 [[files]]
 file = "mods/ae2things.pw.toml"
-hash = "2619e05c47ce319bbdb067666768eee83dc297848e2998f8855f4495ade99cfd"
+hash = "570abb9b0bdfd3d6dd2d35d600bcd2a757c4b99d468d04e9dfc05ca563d8b381"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "2e2e54ee04493089e0b945dde460149473ede218aa090267cd36a74a3a879c8b"
+hash = "82a25ebd1be4a8ed2a954310e439c9b106282c0d92a9dd35820554ffc4c6f5ce"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "bf34c6cd09581dbf436b81d6fa3369a903453c973a33dedc2cf701c3dd11082f"
+hash = "44dbd32bf359d5cd85551e5215bae4cce49082f00571a52ad1a5e00f8b4ed8e3"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "d73c7811ad35da54efbab975b0367012124a045f09cad6b1e02c5e880449fce5"
-metafile = true
-
-[[files]]
-file = "mods/blahaj.pw.toml"
-hash = "f191bf1a5543be29f1ea40b4e68283bce96272d788e33d2dfc849f9731144192"
+hash = "641ad897830cd5e877509ee8bf497c9c5300228887ec5e565ec259083d0e1d82"
 metafile = true
 
 [[files]]
@@ -42,12 +37,12 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "3c184c5f2b8648c1106038d68ffece8f508dd3d4241b3d1e89080a0ed2d35b3e"
+hash = "8f07b2408013a7217caacec87c977635fdf94eb21a10bf281f2bba67ff7c4dc1"
 metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "93ede0321cb3525c62a3fbdffcf9a96413b02bbf054be920c92fcbf25a17134b"
+hash = "811ae5db88e94e44c8d83b6436c5d03ae020916389710dcc1f620c6793a1ff78"
 metafile = true
 
 [[files]]
@@ -56,8 +51,13 @@ hash = "3a6f86a9b95270b1ffd7ea7442e3a17655ebe08ad63fa05b19b629fcab004098"
 metafile = true
 
 [[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8ee2c1ab0bff1037f2e612791232308a4e4d9a1b435763d8e02db8e9aff43191"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "4559f01f8da539982476e058019d8e9b7906f3d9b84f06652b9687cee648515f"
+hash = "33151ae64304b2b7fdb3d4243cf7d6a0dd6d17a700318080b5b3f2ea8e6fa326"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/irisshaders.pw.toml"
-hash = "1ea04b482ec1a591ae19507ef5ae88c06270de3520f9ffc974d70e8d55b24de5"
+hash = "5b1f685ba0f63976418655d6e90e473e34f37fb847a940c6ae06752a68d5863a"
 metafile = true
 
 [[files]]
@@ -82,17 +82,22 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "f75ffe6f368233a0a15fcc56ade9e4ae9191334efead6340e4b2f2fd3fa586ec"
+hash = "f62473fe712df3c11deef509ba6759d815f2f31d881ea7cd87434f61ce77bf07"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "86c821389c1ecfcf2b83975287bf3a549b00b096989324bcc15fe8a0cb06e80e"
+hash = "f5b47f97bb295961c6b2db6bca541348a28fe5ec042a5b343832c59682ddaec2"
 metafile = true
 
 [[files]]
-file = "mods/qsl.pw.toml"
-hash = "e79724cceb24aad2460a7761ce86843aeecbdaee5196509c0b9987e455023878"
+file = "mods/owo-lib.pw.toml"
+hash = "997e86885cc636951fa8fa352997faf7f72464aeec93f9c8880be543e95c5292"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.pw.toml"
+hash = "b3625f171b02ba1264bd281a8ab36708f68501f40cdfdb2c703e13c188d8324e"
 metafile = true
 
 [[files]]
@@ -106,8 +111,13 @@ hash = "f0715bc089d1779fda4585603916eeda828d8c0a6f4bdbf88150ac27a0dd26ee"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "8f83c751ca505f64563b26dd0bb42d379bc9c7e457eadf26614ba7349ad55d75"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "d5e056554e315a461aa7bb4c21805d22d22ae5cb7ce0ab3c18e0514a642582db"
+hash = "d721ad5907e1995200f9ea2a01acc5773a3c9a059ec6b81d4ab358fe3c044d8f"
 metafile = true
 
 [[files]]
@@ -117,12 +127,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "08f769ad40367b754ff25f73d8fae98ac05bee9a9ab34823894705a2366758d2"
+hash = "a70fdb409a70e47eaea3a6082568d178f91c19b59c5aab7c0c59d6ce2120fdc0"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "470c19232a750a398997935c13778a662468fa69fb78c9f269189f41b132d094"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "2e7ee894732d08017efca964f493982dd541a85478ff99713d555d3e64fd5ef2"
 metafile = true
 
 [[files]]
@@ -133,4 +148,9 @@ metafile = true
 [[files]]
 file = "mods/techreborn.pw.toml"
 hash = "d9a2776ee476c34e814bba25882023cacdff05d5acbfa8e6d7c3adc7fed6cd3e"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "712e87884c53ad1c8891e7ea384318750051684144972ad11a15c44cf327a864"
 metafile = true
